@@ -1,5 +1,4 @@
 # {Portfolio website}
-#### {Brief description of application}, {Date of current version}
 #### By **{Brian Ndichu}**
 ## DescriptionThis is a portfolio to showcase various projects i have worked on as well as a contact if a client would be interested in the same. }
 ## Setup/Installation Requirements
