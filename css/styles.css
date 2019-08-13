@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Carter+One&display=swap');
 header {
   background-image: url("https://www.minddevelopmentanddesign.com/wp-content/uploads/2018/11/hand-typing-on-a-laptop-with-code-on-the-screen.jpg");
   height: 100vh;
@@ -25,18 +26,18 @@ h1 {
   text-align: center;
   font-size: 55px;
   color: black;
-  top: 130px;
-  position: relative;
-  left: 130px;
+  top: 250px;
+  position: absolute;
+  left: 300px;
   font-family: 'Coustard', Arial, Helvetica, sans-serif;
 }
 h5 {
   text-align: center;
   font-size: 30px;
   color: black;
-  top: 100px;
-  position: relative;
-  left: 0px;
+  top: 320px;
+  position: absolute;
+  left: 500px;
   font-family: 'Coustard', Arial, Helvetica, sans-serif;
 }
 
@@ -50,3 +51,57 @@ h5 {
   justify-content: space-around;
   padding: 0xp;
   border-top: 130em;
+}
+
+.contact-info {
+    text-align: center;
+    font-size: 55px;
+    color: black;
+    top: 250px;
+    position: absolute;
+    left: 250px;
+    font-family: 'Coustard', Arial, Helvetica, sans-serif;
+}
+
+nav ul li a {
+  font-size: 25px;
+  color: rgb(175, 145, 99);
+  text-decoration: none;
+}
+.me img{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  
+}
+
+.abt{
+  color:white;
+  width: 400px;
+  text-align: center;
+  font-family: 'Carter One', cursive;
+  font-size: 20px;
+  margin-top:2px;
+ 
+  
+}
+
+#img nav ul li a{
+  color: blue;
+  text-transform: uppercase;
+}
+
+  .bottom{
+   text-align: center;
+  }
+  
+  .font{
+    font-family: 'Carter One', cursive;
+    font-size: 60px;
+  }
+  .name{
+    font-family: 'Carter One', cursive;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+  }
