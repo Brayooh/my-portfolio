@@ -1,0 +1,17 @@
+header {
+  background-image: url("https://www.minddevelopmentanddesign.com/wp-content/uploads/2018/11/hand-typing-on-a-laptop-with-code-on-the-screen.jpg");
+  height: 100vh;
+  background-size: contain;
+  background-position: center;
+}
+
+nav {
+  float: right;
+  list-style: none;
+  margin-top: 60px;
+}
+
+nav li {
+  display: inline-block;
+}
+
