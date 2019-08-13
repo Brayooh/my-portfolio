@@ -8,10 +8,45 @@ header {
 nav {
   float: right;
   list-style: none;
-  margin-top: 60px;
+  margin-top: 30px;
+
 }
 
 nav li {
   display: inline-block;
+ 
 }
 
+#head {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 55px;
+  color: black;
+  top: 130px;
+  position: relative;
+  left: 130px;
+  font-family: 'Coustard', Arial, Helvetica, sans-serif;
+}
+h5 {
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  top: 100px;
+  position: relative;
+  left: 0px;
+  font-family: 'Coustard', Arial, Helvetica, sans-serif;
+}
+
+#bg-logo {
+  float: right;
+  margin-right: 6%;
+}
+#social {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 0xp;
+  border-top: 130em;
